@@ -2,7 +2,7 @@
 port = 8501
 
 [theme]
-base = "light"
+base = "dark"
 
 [browser]
 serverAddress = "localhost"
